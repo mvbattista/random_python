@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://earth.google.com/kml/2.0"> <Document><Placemark>
+  <name>Long Island City</name>
+  <Point>
+	<coordinates>
+	    -73.95639,40.74128,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hunterspoint Avenue</name>
+  <Point>
+	<coordinates>
+	    -73.94679,40.74238,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Penn Station</name>
+  <Point>
+	<coordinates>
+	    -73.99358,40.75058,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Woodside</name>
+  <Point>
+	<coordinates>
+	    -73.90297,40.74584,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Forest Hills</name>
+  <Point>
+	<coordinates>
+	    -73.84481,40.71957,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Kew Gardens</name>
+  <Point>
+	<coordinates>
+	    -73.83089,40.70964,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Atlantic Terminal</name>
+  <Point>
+	<coordinates>
+	    -73.97768,40.684901,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Nostrand Avenue</name>
+  <Point>
+	<coordinates>
+	    -73.94822,40.67838,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>East New York</name>
+  <Point>
+	<coordinates>
+	    -73.90281,40.6758,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Jamaica</name>
+  <Point>
+	<coordinates>
+	    -73.80853,40.6996,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Mets-Willets Point</name>
+  <Point>
+	<coordinates>
+	    -73.8437,40.75239,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Flushing Main Street</name>
+  <Point>
+	<coordinates>
+	    -73.83135,40.75789,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Murray Hill</name>
+  <Point>
+	<coordinates>
+	    -73.81454,40.7627,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Broadway</name>
+  <Point>
+	<coordinates>
+	    -73.80176,40.76164,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Auburndale</name>
+  <Point>
+	<coordinates>
+	    -73.78996,40.76143,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bayside</name>
+  <Point>
+	<coordinates>
+	    -73.77125,40.76314,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Douglaston</name>
+  <Point>
+	<coordinates>
+	    -73.74941,40.76806,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Little Neck</name>
+  <Point>
+	<coordinates>
+	    -73.74065,40.77504,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Great Neck</name>
+  <Point>
+	<coordinates>
+	    -73.7261,40.78721,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Manhasset</name>
+  <Point>
+	<coordinates>
+	    -73.6999,40.79672,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Plandome</name>
+  <Point>
+	<coordinates>
+	    -73.69521,40.81069,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Port Washington</name>
+  <Point>
+	<coordinates>
+	    -73.6874,40.82903,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hollis</name>
+  <Point>
+	<coordinates>
+	    -73.76675,40.71017,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Queens Village</name>
+  <Point>
+	<coordinates>
+	    -73.73646,40.71745,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Belmont</name>
+  <Point>
+	<coordinates>
+	    -73.72862,40.71549,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bellerose</name>
+  <Point>
+	<coordinates>
+	    -73.71665,40.7222,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Floral Park</name>
+  <Point>
+	<coordinates>
+	    -73.7064,40.72463,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Stewart Manor</name>
+  <Point>
+	<coordinates>
+	    -73.68102,40.72302,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Nassau Boulevard</name>
+  <Point>
+	<coordinates>
+	    -73.6627,40.72295,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Garden City</name>
+  <Point>
+	<coordinates>
+	    -73.64036,40.72309,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Country Life Press</name>
+  <Point>
+	<coordinates>
+	    -73.62967,40.72145,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hempstead</name>
+  <Point>
+	<coordinates>
+	    -73.62503,40.71329,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>New Hyde Park</name>
+  <Point>
+	<coordinates>
+	    -73.68096,40.73075,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Merillon Avenue</name>
+  <Point>
+	<coordinates>
+	    -73.66252,40.73516,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Mineola</name>
+  <Point>
+	<coordinates>
+	    -73.64086,40.74034,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>East Williston</name>
+  <Point>
+	<coordinates>
+	    -73.63941,40.75601,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Albertson</name>
+  <Point>
+	<coordinates>
+	    -73.64169,40.77205,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Roslyn</name>
+  <Point>
+	<coordinates>
+	    -73.64326,40.79047,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Greenvale</name>
+  <Point>
+	<coordinates>
+	    -73.62687,40.81571,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Glen Head</name>
+  <Point>
+	<coordinates>
+	    -73.62612,40.83222,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Sea Cliff</name>
+  <Point>
+	<coordinates>
+	    -73.62542,40.85236,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Glen Street</name>
+  <Point>
+	<coordinates>
+	    -73.62122,40.85797,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Glen Cove</name>
+  <Point>
+	<coordinates>
+	    -73.61616,40.86583,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Locust Valley</name>
+  <Point>
+	<coordinates>
+	    -73.5983,40.87446,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Oyster Bay</name>
+  <Point>
+	<coordinates>
+	    -73.53403,40.87533,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Carle Place</name>
+  <Point>
+	<coordinates>
+	    -73.60365,40.7492,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Westbury</name>
+  <Point>
+	<coordinates>
+	    -73.58586,40.75345,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hicksville</name>
+  <Point>
+	<coordinates>
+	    -73.52853,40.76717,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Syosset</name>
+  <Point>
+	<coordinates>
+	    -73.50044,40.82485,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Cold Spring Harbor</name>
+  <Point>
+	<coordinates>
+	    -73.45108,40.83563,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Huntington</name>
+  <Point>
+	<coordinates>
+	    -73.40952,40.853,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Greenlawn</name>
+  <Point>
+	<coordinates>
+	    -73.36285,40.86866,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Northport</name>
+  <Point>
+	<coordinates>
+	    -73.32848,40.88064,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Kings Park</name>
+  <Point>
+	<coordinates>
+	    -73.25625,40.88366,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Smithtown</name>
+  <Point>
+	<coordinates>
+	    -73.19803,40.85654,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>St. James</name>
+  <Point>
+	<coordinates>
+	    -73.15951,40.88216,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Stony Brook</name>
+  <Point>
+	<coordinates>
+	    -73.12855,40.92031,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Port Jefferson</name>
+  <Point>
+	<coordinates>
+	    -73.0525,40.93454,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bethpage</name>
+  <Point>
+	<coordinates>
+	    -73.48344,40.74303,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Farmingdale</name>
+  <Point>
+	<coordinates>
+	    -73.44124,40.73591,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Pinelawn</name>
+  <Point>
+	<coordinates>
+	    -73.3996,40.74535,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Wyandanch</name>
+  <Point>
+	<coordinates>
+	    -73.35806,40.75479,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Deer Park</name>
+  <Point>
+	<coordinates>
+	    -73.29356,40.76948,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Brentwood</name>
+  <Point>
+	<coordinates>
+	    -73.24361,40.78083,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Central Islip</name>
+  <Point>
+	<coordinates>
+	    -73.19486,40.79184,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Ronkonkoma</name>
+  <Point>
+	<coordinates>
+	    -73.10594,40.80808,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Medford</name>
+  <Point>
+	<coordinates>
+	    -72.99891,40.81739,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Yaphank</name>
+  <Point>
+	<coordinates>
+	    -72.91588,40.8256,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Riverhead</name>
+  <Point>
+	<coordinates>
+	    -72.66691,40.91983,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Mattituck</name>
+  <Point>
+	<coordinates>
+	    -72.53606,40.99179,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Southold</name>
+  <Point>
+	<coordinates>
+	    -72.4281,41.0662,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Greenport</name>
+  <Point>
+	<coordinates>
+	    -72.3631,41.0997,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>St. Albans</name>
+  <Point>
+	<coordinates>
+	    -73.76551,40.69118,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Locust Manor</name>
+  <Point>
+	<coordinates>
+	    -73.76504,40.67513,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Laurelton</name>
+  <Point>
+	<coordinates>
+	    -73.75175,40.66847,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Rosedale</name>
+  <Point>
+	<coordinates>
+	    -73.73555,40.66594,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Valley Stream</name>
+  <Point>
+	<coordinates>
+	    -73.70476,40.66151,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Westwood</name>
+  <Point>
+	<coordinates>
+	    -73.68121,40.66836,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Malverne</name>
+  <Point>
+	<coordinates>
+	    -73.66886,40.67547,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Lakeview</name>
+  <Point>
+	<coordinates>
+	    -73.65214,40.68585,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hempstead Gardens</name>
+  <Point>
+	<coordinates>
+	    -73.64621,40.69491,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>West Hempstead</name>
+  <Point>
+	<coordinates>
+	    -73.64164,40.70195,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Gibson</name>
+  <Point>
+	<coordinates>
+	    -73.70183,40.64924,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hewlett</name>
+  <Point>
+	<coordinates>
+	    -73.70514,40.63676,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Woodmere</name>
+  <Point>
+	<coordinates>
+	    -73.71371,40.63133,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Cedarhurst</name>
+  <Point>
+	<coordinates>
+	    -73.72618,40.62217,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Lawrence</name>
+  <Point>
+	<coordinates>
+	    -73.7359,40.61573,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Inwood</name>
+  <Point>
+	<coordinates>
+	    -73.74418,40.61228,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Far Rockaway</name>
+  <Point>
+	<coordinates>
+	    -73.75054,40.60913,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Lynbrook</name>
+  <Point>
+	<coordinates>
+	    -73.67607,40.65605,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Centre Avenue</name>
+  <Point>
+	<coordinates>
+	    -73.66397,40.64831,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>East Rockaway</name>
+  <Point>
+	<coordinates>
+	    -73.65821,40.6422,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Oceanside</name>
+  <Point>
+	<coordinates>
+	    -73.65466,40.63471,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Island Park</name>
+  <Point>
+	<coordinates>
+	    -73.65474,40.60129,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Long Beach</name>
+  <Point>
+	<coordinates>
+	    -73.66482,40.59017,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Rockville Centre</name>
+  <Point>
+	<coordinates>
+	    -73.64655,40.65831,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Baldwin</name>
+  <Point>
+	<coordinates>
+	    -73.60716,40.65672,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Freeport</name>
+  <Point>
+	<coordinates>
+	    -73.58232,40.65745,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Merrick</name>
+  <Point>
+	<coordinates>
+	    -73.55062,40.66379,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bellmore</name>
+  <Point>
+	<coordinates>
+	    -73.52886,40.66879,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Wantagh</name>
+  <Point>
+	<coordinates>
+	    -73.50896,40.67298,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Seaford</name>
+  <Point>
+	<coordinates>
+	    -73.48657,40.67572,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Massapequa</name>
+  <Point>
+	<coordinates>
+	    -73.46905,40.67692,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Massapequa Park</name>
+  <Point>
+	<coordinates>
+	    -73.45474,40.67785,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Amityville</name>
+  <Point>
+	<coordinates>
+	    -73.42031,40.68024,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Copiague</name>
+  <Point>
+	<coordinates>
+	    -73.39834,40.68101,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Lindenhurst</name>
+  <Point>
+	<coordinates>
+	    -73.36921,40.68826,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Babylon</name>
+  <Point>
+	<coordinates>
+	    -73.32405,40.70068,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bay Shore</name>
+  <Point>
+	<coordinates>
+	    -73.25408,40.72443,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Islip</name>
+  <Point>
+	<coordinates>
+	    -73.20932,40.73583,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Great River</name>
+  <Point>
+	<coordinates>
+	    -73.17019,40.74044,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Oakdale</name>
+  <Point>
+	<coordinates>
+	    -73.13243,40.74342,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Sayville</name>
+  <Point>
+	<coordinates>
+	    -73.08645,40.74035,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Patchogue</name>
+  <Point>
+	<coordinates>
+	    -73.01574,40.76187,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bellport</name>
+  <Point>
+	<coordinates>
+	    -72.94396,40.77373,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Mastic Shirley</name>
+  <Point>
+	<coordinates>
+	    -72.86442,40.79898,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Speonk</name>
+  <Point>
+	<coordinates>
+	    -72.70427,40.82117,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Westhampton</name>
+  <Point>
+	<coordinates>
+	    -72.65032,40.8303,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Hampton Bays</name>
+  <Point>
+	<coordinates>
+	    -72.52395,40.8766,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Southampton</name>
+  <Point>
+	<coordinates>
+	    -72.39012,40.89471,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Bridgehampton</name>
+  <Point>
+	<coordinates>
+	    -72.31005,40.93898,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>East Hampton</name>
+  <Point>
+	<coordinates>
+	    -72.19324,40.96508,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Amagansett</name>
+  <Point>
+	<coordinates>
+	    -72.13233,40.98003,0
+  </coordinates>
+ </Point>
+</Placemark>
+<Placemark>
+  <name>Montauk</name>
+  <Point>
+	<coordinates>
+	    -71.95388,41.0471,0
+  </coordinates>
+ </Point>
+</Placemark>
+</Document> </kml>
