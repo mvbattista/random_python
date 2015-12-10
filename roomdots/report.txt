@@ -1,0 +1,5 @@
+Collected 996 listings collected from API's 1000 record limit in search
+
+Challenge 1 takes ~ 27 minutes from a one second pause in between GET calls to prevent back-door API from crashing. This would go faster if given an API key to use their main API.
+
+Celery integrates better with a Django app, but fore the scope of this project, it has a lot of YAGNI and would probably be easier to get away with a simple crontab.
